@@ -14,8 +14,8 @@ header {
   font-size: 20px;
 }
 img {
-  width: 150px;
-  height: 190px;
+  width: 160px;
+  height: 160px;
   margin: auto;
   padding: 15px;
 }
@@ -65,4 +65,14 @@ li {
 }
 img {
   border-radius: 20px;
+}
+.li1,
+.li2,
+.li3,
+.li4 {
+  text-align: center;
+  width: 150px;
+}
+.skils {
+  text-align: center;
 }
